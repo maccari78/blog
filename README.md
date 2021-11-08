@@ -9,9 +9,6 @@ Curso completo de introducción a Ruby on Rails.
 >
 > 2021-11-07 01:22 PM  //  I got to the minute 01:47:31  
 >
-> User: maccari78@gmail.com Pass: r3suRr3cti0ns
-> User: uriel@codigofacilito.com Pass: 123456
->
 > 2021-11-07 07:25 PM  //  I got to the minute 02:06:05
 >
 > 2021-11-07 07:45 PM  //  I got to the minute 02:26:51
