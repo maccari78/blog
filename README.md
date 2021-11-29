@@ -24,3 +24,6 @@ Curso completo de introducción a Ruby on Rails.
 > 2021-11-08 05:29 PM  //  I got to the minute 03:18:22
 >
 > 2021-11-08 06:27 PM  //  I got to the minute 03:27:26 the end
+>
+> Start Puma server:  rails server o rails s
+> Start webpack-dev-server: En el directorio del proyecto ./bin/webpack-dev-server  
