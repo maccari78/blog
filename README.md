@@ -9,19 +9,7 @@ Curso completo de introducción a Ruby on Rails.
 >
 > 2021-11-07 01:22 PM  //  I got to the minute 01:47:31  
 >
-> 2021-11-07 07:25 PM  //  I got to the minute 02:06:05
->
-> 2021-11-07 07:45 PM  //  I got to the minute 02:26:51
->
-> 2021-11-07 09:00 PM  //  I got to the minute 02:35:02
->
-> 2021-11-07 09:32 PM  //  I got to the minute 02:46:16
->
-> 2021-11-07 10:09 PM  //  I got to the minute 02:56:16
->
-> 2021-11-07 10:42 PM  //  I got to the minute 03:04:48
->
-> 2021-11-08 05:29 PM  //  I got to the minute 03:18:22
+> 2021-11-07 07:25 PM  //  I got to the minute 02:06:052
 >
 > 2021-11-08 06:27 PM  //  I got to the minute 03:27:26 the end
 >
